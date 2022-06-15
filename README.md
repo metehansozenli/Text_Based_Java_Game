@@ -1,4 +1,4 @@
-# Text_Based_Java_Game
+# Metin Tabanlı Java Oyunu (Text Based Java Game)
 
 Java ile kodlamış olduğum Şövalye-Düşman oyununda toplamda 15 adet sınıf bulunmaktadır.
 
